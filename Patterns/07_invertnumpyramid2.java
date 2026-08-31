@@ -10,6 +10,21 @@ public class Main
 	}
 	}
 }
+//using both decreative for loop
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+	    Scanner sc=new Scanner(System.in);
+	    int n=sc.nextInt();
+		for(int i=5;i>0;i--){
+		    for(int j=5;j>n-i;j--){
+		        System.out.print(i);
+		    }
+		    System.out.println();
+		}
+	}
+}
 // 55555
 // 4444
 // 333
