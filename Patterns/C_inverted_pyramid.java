@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class C_inverted_pyramid
 {
 	public static void main(String[] args) {
 	   

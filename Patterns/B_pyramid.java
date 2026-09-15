@@ -1,4 +1,4 @@
-public class Main
+public class B_pyramid
 {
 	public static void main(String[] args) {
 	    int n=5;

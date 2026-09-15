@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class I_pyramidthreeloop
 {
 	public static void main(String[] args) {
 	   

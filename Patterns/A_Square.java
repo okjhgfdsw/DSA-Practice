@@ -1,4 +1,4 @@
-public class Main
+public class A_Square
 {
 	public static void main(String[] args) {
 	    int n=5;

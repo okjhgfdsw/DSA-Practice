@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class   J_Diamond
 {
 	public static void main(String[] args) {
 	   
@@ -26,27 +26,27 @@ public class Main
 	}
 }
 
-import java.util.*;
-public class Main
-{
-	public static void main(String[] args) {
+// import java.util.*;
+// public class J_Diamond
+// {
+// 	public static void main(String[] args) {
 	   
-	    int n=5;
-	    for(int i=0;i<=n-1;i++){
-	        for(int j=0;j<=i;j++){
-	            System.out.print("*");
-	        }
-	        System.out.println();
-	    }
-	     for(int l=0;l<=n-1;l++){
-	        for(int m=0;m<=n-l-2;m++){
-	            System.out.print("*");
-	        }
-	        System.out.println();
-	    }
+// 	    int n=5;
+// 	    for(int i=0;i<=n-1;i++){
+// 	        for(int j=0;j<=i;j++){
+// 	            System.out.print("*");
+// 	        }
+// 	        System.out.println();
+// 	    }
+// 	     for(int l=0;l<=n-1;l++){
+// 	        for(int m=0;m<=n-l-2;m++){
+// 	            System.out.print("*");
+// 	        }
+// 	        System.out.println();
+// 	    }
 	    
-	}
-}
+// 	}
+// }
 
 // output:
 //         * 
@@ -68,14 +68,14 @@ public class Main
 //        * * 
 //         * 
 
-output2:
-*
-**
-***
-****
-*****
-****
-***
-**
-*
+// output2:
+// *
+// **
+// ***
+// ****
+// *****
+// ****
+// ***
+// **
+// *
 

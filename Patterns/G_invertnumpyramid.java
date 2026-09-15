@@ -1,4 +1,4 @@
-public class Main
+public class G_invertnumpyramid
 {
 	public static void main(String[] args) {
 	    int n=5;
