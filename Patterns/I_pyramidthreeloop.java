@@ -1,4 +1,3 @@
-import java.util.*;
 public class I_pyramidthreeloop
 {
 	public static void main(String[] args) {
