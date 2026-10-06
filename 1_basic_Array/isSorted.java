@@ -18,3 +18,9 @@ public static void main(String[] args) {
 }
     
 }
+
+//logic which i learned here
+//boolean return true false we can simply print it by put it function
+//in sout
+//logic-for arr[i] > arr[i] return true false ex for 5 element
+//for loop run for 0 1 2 3 iteration becoz i+1 hai arrayoutofbound nahi hona chaiye
